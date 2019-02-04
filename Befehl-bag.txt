@@ -1,0 +1,2 @@
+python mega_rosbag.py --spath /home/yukan/Pictures/undistortion/ --dpath /home/yukan/Pictures/test --interval 3 --bagname undistortion.bag
+
